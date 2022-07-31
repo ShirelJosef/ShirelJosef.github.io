@@ -1,6 +1,6 @@
 main:
   - title: "Docs"
-    url: /docs/quick-start-guide
+    url: /docs/quick-start-guide/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
